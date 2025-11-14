@@ -1,0 +1,6 @@
+order_status_key,order_status
+1,Shipped
+2,Processing
+3,Pending
+4,Delivered
+5,
